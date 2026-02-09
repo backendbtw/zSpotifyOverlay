@@ -1,0 +1,5 @@
+/home/p1llz/Desktop/wlspotifyOverlay/build/CMakeFiles/zspotifyOverlay.dir
+/home/p1llz/Desktop/wlspotifyOverlay/build/CMakeFiles/edit_cache.dir
+/home/p1llz/Desktop/wlspotifyOverlay/build/CMakeFiles/rebuild_cache.dir
+/home/p1llz/Desktop/wlspotifyOverlay/build/CMakeFiles/zspotifyOverlay_autogen_timestamp_deps.dir
+/home/p1llz/Desktop/wlspotifyOverlay/build/CMakeFiles/zspotifyOverlay_autogen.dir

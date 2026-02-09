@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_zspotifyOverlay_FILE /home/p1llz/Desktop/wlspotifyOverlay/build/zspotifyOverlay)
+set(__QT_DEPLOY_TARGET_zspotifyOverlay_TYPE EXECUTABLE)

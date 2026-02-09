@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/p1llz/Desktop/wlspotifyOverlay/build/zspotifyOverlay_autogen",
+	"CMAKE_BINARY_DIR" : "/home/p1llz/Desktop/wlspotifyOverlay/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/p1llz/Desktop/wlspotifyOverlay/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/p1llz/Desktop/wlspotifyOverlay",
+	"CMAKE_SOURCE_DIR" : "/home/p1llz/Desktop/wlspotifyOverlay",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/p1llz/Desktop/wlspotifyOverlay/build/zspotifyOverlay_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/p1llz/Desktop/wlspotifyOverlay/assets/left-arrow.png",
+		"/home/p1llz/Desktop/wlspotifyOverlay/assets/right-arrow.png",
+		"/home/p1llz/Desktop/wlspotifyOverlay/assets/pause.png"
+	],
+	"LOCK_FILE" : "/home/p1llz/Desktop/wlspotifyOverlay/build/CMakeFiles/zspotifyOverlay_autogen.dir/AutoRcc_files_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "files" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_files.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/p1llz/Desktop/wlspotifyOverlay/build/CMakeFiles/zspotifyOverlay_autogen.dir/AutoRcc_files_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/p1llz/Desktop/wlspotifyOverlay/files.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
