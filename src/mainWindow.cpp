@@ -117,6 +117,8 @@ void MainWindow::mousePressEvent(QMouseEvent *event) {
 
     if (event->button() == Qt::LeftButton && spotifyInterface.isValid()) {
         spotifyInterface.call("PlayPause");
+    } else if (event->button() == Qt::RightButton && event->modifiers() & Qt::ShiftModifier) {
+        spotifyInterface.call("Previous");
     } else if (event->button() == Qt::RightButton) {
         spotifyInterface.call("Next");
     }

@@ -9,7 +9,7 @@ A lightweight spotify overlay for your desktop. Made in qt6/C++. Displays the cu
     - **Left Click**: Play / Pause 
     - **CTRL + Scroll Down/Up**: Adjuste spotify volume
     - **Right Click**: Jump to next song
-
+    - **Shift + Right Click**: Go to the latest song
 **Requeriments:** `qt6`
 
 ### Installation
